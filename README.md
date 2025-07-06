@@ -33,5 +33,3 @@ This project explores object classification using handcrafted features and class
 2. Install dependencies from `requirements.txt`
 3. Run `Objects Classification.ipynb`
 
-## 🧑‍💻 Author
-Ziad Mohey Hamed
