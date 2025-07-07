@@ -1,4 +1,4 @@
-# Object Classification using Classical and ML Techniques
+# Image Classification using Classical and ML Techniques
 
 This project explores object classification using handcrafted features and classical machine learning algorithms on the Caltech101 dataset.
 
